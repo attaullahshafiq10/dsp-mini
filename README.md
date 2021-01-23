@@ -5,13 +5,13 @@ IIR (infinite impulse response) filters are usually used for applications where 
 
 ### Contributors:
 
-Hafiz Muhammad Attaullah
+[Hafiz Muhammad Attaullah](https://github.com/attaullahshafiq10)
 
-Umm-e-Farwa
+[Umm-e-Farwa](https://github.com/umm-e-farwa99)
 
-Aiza
+[Aiza](https://github.com/aizaabbasi911)
 
-Alishba Butt
+[Alishba Butt](https://github.com/alishbabutt10).
 
 .
 
