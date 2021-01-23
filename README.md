@@ -11,10 +11,10 @@ IIR (infinite impulse response) filters are usually used for applications where 
 
 [Aiza](https://github.com/aizaabbasi911)
 
-[Alishba Butt](https://github.com/alishbabutt10).
+[Alishba Butt](https://github.com/alishbabutt10)
 
 .
 
 
 ### Assigned by:
-[Dr. Sundar Ali Khowaja](https://github.com/sander-ali).
+[Dr. Sundar Ali Khowaja](https://github.com/sander-ali)
